@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sehbaz Singh and I'm a Student of (AI & Data Science), from India</p>
+<p align="left">My name is Sehbaz Singh and I'm a Student of AI & Data Science, from India</p>
 
 ###
 
