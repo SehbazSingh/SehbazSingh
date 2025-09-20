@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Generative LLMs and Data Science<br>🎯 Goals: To be a Data Scientist<br></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Generative LLMs and Data Science<br>🎯 Goals: To be a AI & Data Scientist<br></p>
 
 ###
 
